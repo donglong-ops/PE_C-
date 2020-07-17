@@ -1,0 +1,30 @@
+D:\PRN292\PE-Hoang Dinh Bao\Department\Department\obj\Debug\Department.csprojAssemblyReference.cache
+D:\PRN292\PE-Hoang Dinh Bao\Department\Department\obj\Debug\Department.Form1.resources
+D:\PRN292\PE-Hoang Dinh Bao\Department\Department\obj\Debug\Department.Properties.Resources.resources
+D:\PRN292\PE-Hoang Dinh Bao\Department\Department\obj\Debug\Department.csproj.GenerateResource.cache
+D:\PRN292\PE-Hoang Dinh Bao\Department\Department\obj\Debug\Department.csproj.CoreCompileInputs.cache
+D:\PRN292\PE-Hoang Dinh Bao\Department\Department\bin\Debug\Department.exe.config
+D:\PRN292\PE-Hoang Dinh Bao\Department\Department\bin\Debug\Department.exe
+D:\PRN292\PE-Hoang Dinh Bao\Department\Department\bin\Debug\Department.pdb
+D:\PRN292\PE-Hoang Dinh Bao\Department\Department\obj\Debug\Department.exe
+D:\PRN292\PE-Hoang Dinh Bao\Department\Department\obj\Debug\Department.pdb
+C:\Users\Long\Desktop\SE130623_longdh\Department\Department\bin\Debug\Department.exe.config
+C:\Users\Long\Desktop\SE130623_longdh\Department\Department\bin\Debug\Department.exe
+C:\Users\Long\Desktop\SE130623_longdh\Department\Department\bin\Debug\Department.pdb
+C:\Users\Long\Desktop\SE130623_longdh\Department\Department\obj\Debug\Department.csprojAssemblyReference.cache
+C:\Users\Long\Desktop\SE130623_longdh\Department\Department\obj\Debug\Department.Form1.resources
+C:\Users\Long\Desktop\SE130623_longdh\Department\Department\obj\Debug\Department.Properties.Resources.resources
+C:\Users\Long\Desktop\SE130623_longdh\Department\Department\obj\Debug\Department.csproj.GenerateResource.cache
+C:\Users\Long\Desktop\SE130623_longdh\Department\Department\obj\Debug\Department.csproj.CoreCompileInputs.cache
+C:\Users\Long\Desktop\SE130623_longdh\Department\Department\obj\Debug\Department.exe
+C:\Users\Long\Desktop\SE130623_longdh\Department\Department\obj\Debug\Department.pdb
+C:\Users\Long\Desktop\PE_SE130623_longdh\Department\Department\bin\Debug\Department.exe.config
+C:\Users\Long\Desktop\PE_SE130623_longdh\Department\Department\bin\Debug\Department.exe
+C:\Users\Long\Desktop\PE_SE130623_longdh\Department\Department\bin\Debug\Department.pdb
+C:\Users\Long\Desktop\PE_SE130623_longdh\Department\Department\obj\Debug\Department.csprojAssemblyReference.cache
+C:\Users\Long\Desktop\PE_SE130623_longdh\Department\Department\obj\Debug\Department.Form1.resources
+C:\Users\Long\Desktop\PE_SE130623_longdh\Department\Department\obj\Debug\Department.Properties.Resources.resources
+C:\Users\Long\Desktop\PE_SE130623_longdh\Department\Department\obj\Debug\Department.csproj.GenerateResource.cache
+C:\Users\Long\Desktop\PE_SE130623_longdh\Department\Department\obj\Debug\Department.csproj.CoreCompileInputs.cache
+C:\Users\Long\Desktop\PE_SE130623_longdh\Department\Department\obj\Debug\Department.exe
+C:\Users\Long\Desktop\PE_SE130623_longdh\Department\Department\obj\Debug\Department.pdb
